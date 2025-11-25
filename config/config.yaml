@@ -117,7 +117,7 @@ platforms:
     name: "知乎"
   - id: "kaopu"
     name: "靠谱新闻"
-  - id: "sputniknewcn"
+  - id: "sputniknewscn"
     name: "俄罗斯卫星通讯社"
   - id: "gelonghui"
     name: "格隆汇"
